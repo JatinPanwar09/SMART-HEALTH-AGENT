@@ -28,3 +28,4 @@ It integrates **five models** – **Diabetes, Stroke, Kidney Disease, Liver Dise
 
 ### 🔹 General Symptoms Analyzer
 ![General Symptoms Analyzer](image/genral_syptom_check.jpg)
+
